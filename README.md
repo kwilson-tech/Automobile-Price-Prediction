@@ -11,7 +11,7 @@ I implemented 4 different methods only manipulating the normalized-losses column
 * Removed the entire 'normalized-losses' column
 
 Results:
-The linear regression method performed the best for all models used.
+The linear regression method to fill in values for missing 'normalized-losses' performed the best for all models used.
 
 Models Used:
 * Linear Regression
