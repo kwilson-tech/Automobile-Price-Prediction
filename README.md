@@ -30,6 +30,9 @@ The libraries used are listed below:
  * Numpy
  * Sklearn
 
+Dataset:
+* The dataset used is on Kaggle. You can click [here](https://www.kaggle.com/toramky/automobile-dataset)
+
 References:
 * https://www.1aauto.com/content/articles/types-of-fuel-injection
 * https://www.usautosales.info/blog/front-wheel-drive-vs-rear-wheel-drive/
