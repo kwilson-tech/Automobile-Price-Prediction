@@ -1,7 +1,5 @@
 # Automobile-Price-Prediction
 
-![This is an image](https://www.admiral.com/sites/default/files/styles/magazine_article_1280/public/2019-01/Ford%20Cortina.jpg?itok=Qv3Rzw0c)
-
 Price Prediction Regression of Vehicles in 1985. The 'normalized-losses' column had about 20% of the values missing.
 
 I implemented 4 different methods only manipulating the normalized-losses column to see what would give the best results:
